@@ -1,0 +1,5 @@
+Student: Amistad
+Student ID: TUPM-26-1938
+Seed digit: 8
+ID sum: 29
+Verification: 211

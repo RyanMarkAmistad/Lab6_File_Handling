@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name: Amistad
+Student ID: TUPM-26-1938
+Seed Digit: 8
+ID Sum: 29
+Verification Value: 211
+Dataset Sample Size: 79
+Valid Records: 79
+Average Global Active Power: 3.951
+JSON File: Amistad_TUPM-26-1938_record.json
+Backup File: Amistad_TUPM-26-1938_record.csv
