@@ -1,0 +1,33 @@
+======================================================================
+                  CYBERSECURITY INCIDENT REPORT (2023)
+======================================================================
+Student Name              : AMISTAD
+Student ID                : TUPM-26-1938
+Target Year               : 2023
+Total Records Evaluated   : 0
+Incidents in Target Year  : 0
+
+----------------------------------------------------------------------
+1. ATTACK TYPE DISTRIBUTION
+----------------------------------------------------------------------
+ - DDoS                 : 51 incidents
+ - Ransomware           : 50 incidents
+ - Phishing             : 46 incidents
+ - Malware              : 55 incidents
+ - Man-in-the-Middle    : 50 incidents
+ - SQL Injection        : 63 incidents
+
+----------------------------------------------------------------------
+2. FINANCIAL LOSS SUMMARY
+----------------------------------------------------------------------
+Total Financial Loss      : $15,958.08 Million
+Average Financial Loss    : $0.00 Million
+
+----------------------------------------------------------------------
+3. FIVE COSTLIEST INCIDENTS
+----------------------------------------------------------------------
+======================================================================
+Filtered CSV File         : filtered_cybersecurity_2023.csv
+JSON Summary File         : cybersecurity_summary_2023.json
+Backup Status             : VERIFIED
+======================================================================
